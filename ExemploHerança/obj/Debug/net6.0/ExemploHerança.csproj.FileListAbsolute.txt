@@ -1,0 +1,15 @@
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\bin\Debug\net6.0\ExemploHerança.exe
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\bin\Debug\net6.0\ExemploHerança.deps.json
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\bin\Debug\net6.0\ExemploHerança.runtimeconfig.json
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\bin\Debug\net6.0\ExemploHerança.dll
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\bin\Debug\net6.0\ExemploHerança.pdb
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.csproj.AssemblyReference.cache
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.AssemblyInfoInputs.cache
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.AssemblyInfo.cs
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.csproj.CoreCompileInputs.cache
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.dll
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\refint\ExemploHerança.dll
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.pdb
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ExemploHerança.genruntimeconfig.cache
+C:\Users\2022102020009\Pictures\ExemploHerança\ExemploHerança\obj\Debug\net6.0\ref\ExemploHerança.dll
