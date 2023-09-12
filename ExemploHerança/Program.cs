@@ -21,7 +21,7 @@ public class Program
         Cachorro cachorro = new Cachorro();
         cachorro.Raca = "Hashi shibirianu";
         cachorro.barulho = "Ai zé da manga";
-        cachorro.peso = 30;
+        cachorro.Peso = 30;
         cachorro.Datanasci = DateOnly.Parse("2007-02-12");
         cachorro.Barulho();
 

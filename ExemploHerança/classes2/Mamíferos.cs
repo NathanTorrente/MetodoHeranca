@@ -12,6 +12,18 @@ namespace ExemploHerança.classes2
         public string Raca { get; set; }
         public string barulho { get; set;}
 
+
+        public Mamíferos()
+        {
+
+        }
+        public Mamíferos(DateOnly datanasci, string raca)
+        {
+            Datanasci = datanasci;
+            Raca = raca;
+            
+        }
+
         public virtual void Barulho()
         {
             Console.WriteLine(this.Raca + "Fazendo Barulho!");
